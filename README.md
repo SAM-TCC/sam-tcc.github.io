@@ -19,7 +19,7 @@ médico caso necessário.
 
 ## Desenvolvedores
 
-| <img src="https://github.com/Calebe94.png?size=200" alt="Edimar Calebe Castanho"> | <img src="https://github.com/GabrielChavesBorges.png?size=200" alt="Gabriel Chaves Borges"> | 
+| <img src="https://github.com/Calebe94.png?size=200" alt="Edimar Calebe Castanho"> | <img src="https://github.com/GabrielChavesBorges.png?size=100" alt="Gabriel Chaves Borges"> | 
 |:---------------------------------------------------------------------------------:|:------------------------------------------------------------------:|
 | [Edimar Calebe Castanho (Calebe94)](https://github.com/Calebe94)                  | [Gabriel Chaves Borges](https://github.com/GabrielChavesBorges)
 
