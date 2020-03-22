@@ -1,3 +1,4 @@
 [submodule "utils"]
 	path = utils
+	branch = master
 	url = https://github.com/SAM-TCC/utils
