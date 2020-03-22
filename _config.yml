@@ -10,3 +10,6 @@ permalink: /blog/:title
 # jekyll-paginate. for paginating blog posts.
 paginate: 5
 paginate_path: blog/page:num
+
+# used to estimate reading time
+wpm: 150
